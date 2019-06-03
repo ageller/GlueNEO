@@ -1,4 +1,6 @@
 # GlueNEO
-A test exploration of Glue using data from [JPL's Small-Body Database](https://ssd.jpl.nasa.gov/sbdb_query.cgi).
+A test exploration of [Glue](http://docs.glueviz.org/en/stable/index.html) using Near Earth Object (NEO) data
 
-This uses NEOs.
+NEO data were downloaded from the [JPL Small-Body Database](https://ssd.jpl.nasa.gov/sbdb_query.cgi), and the [NEO Earth Close Approaches archive](https://cneos.jpl.nasa.gov/ca/).
+
+
